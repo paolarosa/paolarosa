@@ -1,7 +1,6 @@
 ### Hi there 👋
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paola-rosa-a2254b10a/)
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paolarosa)](https://github.com/anuraghazra/github-readme-stats)
 
 
