@@ -1,5 +1,4 @@
-# Helloooo! 👋
-
+# Hi!  How are you? 😊
 ## A Creative Full-Stack Developer Turning Ideas into Solutions
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a>
