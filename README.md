@@ -4,11 +4,6 @@
 - 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
 - ✉️ Feel free to reach me at [pa_rosa@msn.com](mailto:pa_rosa@msn.com)
 - 📄 Discover more about my experiences on [LinkedIn](https://www.linkedin.com/in/paola-rosa-a2254b10a/)
-# A Creative Full-Stack Developer Turning Ideas into Solutions
-- 🌸 Currently diving into **Artificial Intelligence (AI)**
-- 💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a>
-- ✉️ Feel free to reach me at <a href="mailto:pa_rosa@msn.com" style="color: pink;">pa_rosa@msn.com</a>
-- 📄 Discover more about my experiences on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/" style="color: pink;">LinkedIn</a>
 
 ## Languages and Tools:
 <p align="center"> 
