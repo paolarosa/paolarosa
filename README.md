@@ -21,6 +21,4 @@
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paolarosa&theme=dark)
