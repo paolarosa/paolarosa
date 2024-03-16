@@ -1,10 +1,12 @@
 # Helloooo! 👋
 
 ## A Innovative Full-Stack Developer Crafting Seamless Digital Experiences
-
+- 🌸 Currently diving into **Artificial Intelligence (AI)**
+- 💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a>
+- ✉️ Feel free to reach me at <a href="mailto:pa_rosa@msn.com" style="color: pink;">pa_rosa@msn.com</a>
+- 📄 Discover more about my experiences on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/" style="color: pink;">LinkedIn</a>
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
-- 💬 Ask me about **React, JS, TS**
 - 📫 How to reach me: [pa_rosa@msn.com](mailto:pa_rosa@msn.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/paola-rosa-a2254b10a/)
 
