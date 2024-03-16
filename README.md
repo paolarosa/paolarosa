@@ -8,9 +8,6 @@
 - 📫 How to reach me: [pa_rosa@msn.com](mailto:pa_rosa@msn.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/paola-rosa-a2254b10a/)
 
-### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://linkedin.com/in/paolarosa)
-
 ### Languages and Tools:
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
