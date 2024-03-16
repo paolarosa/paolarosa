@@ -1,6 +1,6 @@
 # Helloooo! 👋
 
-## A Innovative Full-Stack Developer Crafting Seamless Digital Experiences
+## A Creative Full-Stack Developer Turning Ideas into Solutions
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a>
 - ✉️ Feel free to reach me at <a href="mailto:pa_rosa@msn.com" style="color: pink;">pa_rosa@msn.com</a>
