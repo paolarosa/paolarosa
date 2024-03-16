@@ -1,4 +1,12 @@
-
+<div style="background-color: black; padding: 20px;">
+    <h3 style="color: cyan; text-align: center;">A Creative Full-Stack Developer Turning Ideas into Solutions</h3>
+    <ul>
+        <li style="color: cyan;">🌸 Currently diving into **Artificial Intelligence (AI)**</li>
+        <li style="color: cyan;">💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a></li>
+        <li style="color: cyan;">✉️ Feel free to reach me at <a href="mailto:pa_rosa@msn.com" style="color: pink;">pa_rosa@msn.com</a></li>
+        <li style="color: cyan;">📄 Discover more about my experiences on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/" style="color: pink;">LinkedIn</a></li>
+    </ul>
+</div>
 # A Creative Full-Stack Developer Turning Ideas into Solutions
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on <a href="https://portfolio-pi-pearl-11.vercel.app/" style="color: pink;">Portfolio</a>
