@@ -19,6 +19,10 @@
 </p>
 
 ### GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paolarosa&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=paolarosa&theme=dark" alt="GitHub Streak"></td>
+  </tr>
+</table>
