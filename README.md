@@ -1,10 +1,13 @@
-# Greetings, Earthling! I'm [Paola], on a mission to code the universe into a better place!
+# Greetings, Earthling! I'm Paola, on a mission to code the universe into a better place!
 
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
 - ✉️ Feel free to reach me at [pa_rosa@msn.com](mailto:pa_rosa@msn.com)
 - 📄 Discover more about my experiences on [LinkedIn](https://www.linkedin.com/in/paola-rosa-a2254b10a/)
-
+<p align='center'>
+   <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+     
 ## Languages and Tools:
 <p align="center"> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
