@@ -1,4 +1,4 @@
-# A Creative Full-Stack Developer Turning Ideas into Solutions
+# Greetings, Earthling! I'm [Paola], on a mission to code the universe into a better place!
 
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
