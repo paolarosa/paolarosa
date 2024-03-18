@@ -1,6 +1,6 @@
 # 
 <div align="center">
-   <h1>Helloooo, I'm Paola <iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="25" height="10"> </h1>   
+   <h1>Helloooo, I'm Paola <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="25" height="10"> </h1>   
 </div>
 <iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 
