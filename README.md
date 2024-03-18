@@ -1,4 +1,7 @@
-# What's up! I'm Paola, a Creative Full-Stack Developer! 
+# <div align="center">
+   <h1>Hi there, I'm Paola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
