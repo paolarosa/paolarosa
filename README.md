@@ -7,7 +7,7 @@
 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) 
 Dive into my journey on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; and let's connect!
 
-Check out all of my projects on [<img src="https://github.com/paolarosa/paolarosa/blob/main/assets/108689859/243daa86-5901-4a83-baaf-ca88ed9cfb06.png" height="30"/> Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
+Check out all of my projects on [<img src="URL_DO_SEU_ICONE" height="30"/> Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
 
 
 <div align="center">
