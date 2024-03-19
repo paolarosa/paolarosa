@@ -11,7 +11,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br/>
-### <h3><b>Languages and Tools:</b></h3>
+<h3><b>Languages and Tools:</b></h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
