@@ -7,7 +7,7 @@
 </div> <br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently exploring the world of **Artificial Intelligence (AI)** <br/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Dive into my [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) to explore my projects, and connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; to follow my professional journey!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Dive into my [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) to explore my projects, and connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; to follow my professional journey!<br/>
 <h3><b>Languages and Tools:</b></h3>
 
 <p align="center">
