@@ -3,7 +3,6 @@
    <h1>Helloooo, I'm Paola 😊 </h1>   
 </div>
 
-
 - Currently exploring the world of **Artificial Intelligence (AI)**
 - Explore my <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; to follow my professional journey and check out my projects on my [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)! Let's connect!
 <br/>
