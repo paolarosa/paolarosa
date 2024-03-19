@@ -2,7 +2,6 @@
 <div align="center">
    <h1>Helloooo, I'm Paola 😊 </h1>   
 </div>
-<br/>
 <div align="center">
 <h3> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil </h3>
 </div>
