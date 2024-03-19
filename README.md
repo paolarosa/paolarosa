@@ -4,7 +4,7 @@
 </div>
 
 
-- 🌸 Currently exploring the world of **Artificial Intelligence (AI)**
+- Currently exploring the world of **Artificial Intelligence (AI)**
 - Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) 
 - Dive into my journey on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; and let's connect!
 
