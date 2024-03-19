@@ -1,6 +1,6 @@
 # 
 <div align="center">
-   <h1>Helloooo, I'm Paola <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="25" height="10"> </h1>   
+   <h1>Helloooo, I'm Paola 😊 </h1>   
 </div>
 
 
