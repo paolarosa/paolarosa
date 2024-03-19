@@ -11,7 +11,7 @@
 <div align="center">
 <h3> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil </h3>
 </div>
-<br/>
+
 <h3><b>Languages and Tools:</b></h3>
 
 <p align="center">
