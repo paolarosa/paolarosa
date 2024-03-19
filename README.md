@@ -3,7 +3,6 @@
    <h1>Helloooo, I'm Paola <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="25" height="10"> </h1>   
 </div>
 
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 
 - 🌸 Currently diving into **Artificial Intelligence (AI)**
 - 💻 Check out all of my projects on [Portfolio](https://portfolio-pi-pearl-11.vercel.app/)
