@@ -3,12 +3,12 @@
    <h1>Helloooo, I'm Paola 😊 </h1>   
 </div>
 
-- Currently exploring the world of **Artificial Intelligence (AI)**
-- Dive into my [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) to explore my projects, and connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; to follow my professional journey!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently exploring the world of **Artificial Intelligence (AI)**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Dive into my [Portfolio](https://portfolio-pi-pearl-11.vercel.app/) to explore my projects, and connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"> <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; to follow my professional journey!
 
 <br/>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil </h3>
 </div>
 <br/>
 <h3><b>Languages and Tools:</b></h3>
