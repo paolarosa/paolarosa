@@ -1,6 +1,6 @@
 # 
 <div align="center">
-   <h1>Helloooo! 😊 </h1>   
+   <h1>Helloo! Welcome! 😊 </h1>   
 </div>
 <div align="center">
 <h3> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil </h3>
