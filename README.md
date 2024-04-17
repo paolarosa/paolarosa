@@ -22,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-<p align="center" >
-<table>
+<p  >
+<table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs"></td>
     <td><a href="https://github.com/anuraghazra/github-readme-stats"> 
