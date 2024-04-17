@@ -22,18 +22,18 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
+<p align="center" >
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs"></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=paolarosa&&show_icons=true&theme=radical"/>
+  </a></td>
   </tr>
 </table>
-<p align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=paolarosa&&show_icons=true&theme=radical"/>
-  </a>
+
+
+
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paolarosa&theme=dark" alt="GitHub Streak">
