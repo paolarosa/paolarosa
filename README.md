@@ -1,9 +1,9 @@
 # 
 <div align="center">
-   <h1>Helloo! Welcome! 😊 </h1>   
+   <h1>Welcome! 💀 </h1>   
 </div>
 <div align="center">
-<h3> 👻 Paola Rosa | 💻 Full Stack Developer | 🛸 Brazil </h3>
+<h3> 💻 Full Stack Developer | 🛸 Brazil </h3>
 </div> <br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently exploring the world of **Artificial Intelligence (AI)** <br/>
