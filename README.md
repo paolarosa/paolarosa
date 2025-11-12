@@ -22,8 +22,7 @@
 <br/>
 <table align="center">
   <tr>
-     <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs"></td>
-<td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paolarosa&show_icons=true&theme=radical" alt="GitHub Stats"></td>
-  </a></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&theme=dark&hide_border=true&layout=compact" alt="Top Langs"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"></td></td>
   </tr>
 </table>
