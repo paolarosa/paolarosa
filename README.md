@@ -22,11 +22,8 @@
 <br/>
 <table align="center">
   <tr>
-       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark&hide=html,css&langs_count=6&cache_seconds=3600" alt="Top Langs"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=dark" alt="Top Langs"></td>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=paolarosa&&show_icons=true&theme=radical"/>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&theme=dark&hide_border=true&layout=compact" alt="Top Langs"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"></td>
   </a></td>
   </tr>
 </table>
