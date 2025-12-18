@@ -13,9 +13,7 @@
 
 
 🚀 Dive into my 
-<a href="https://portfolio-pi-pearl-11.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-ec4899?style=for-the-badge" />
-</a>
+<a href="https://portfolio-pi-pearl-11.vercel.app/">Portfolio</a>
 to explore my projects  
 <br/><br/>
 Connect with me on 
