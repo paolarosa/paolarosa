@@ -16,9 +16,10 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-ec4899?style=for-the-badge" />
 </a>
 
-<br/><br/>
+<br/>
 <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow%20my%20progress-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </a>
 </div>
 
