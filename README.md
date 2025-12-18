@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 <br/>
 
 <a href="https://portfolio-pi-pearl-11.vercel.app/">
