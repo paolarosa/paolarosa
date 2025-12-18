@@ -41,6 +41,4 @@
 
 ![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=nome-do-repo-antigo)
-
 </div>
