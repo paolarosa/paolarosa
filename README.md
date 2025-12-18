@@ -15,10 +15,7 @@
 <br/>
 
 🚀 Dive into my **[Portfolio](https://portfolio-pi-pearl-11.vercel.app/)** to explore my projects  
-🤝 Connect with me on  
-<a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
-  <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
-</a>
+Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" /></a>
 
 ---
 
