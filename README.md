@@ -2,7 +2,7 @@
 
 # Welcome! 💀
 
-### 💻 Full Stack Developer | 🛸 Brazil
+### 💻 Full Stack Developer 
 
 </div>
 
