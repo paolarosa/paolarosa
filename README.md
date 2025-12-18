@@ -4,12 +4,21 @@
 
 ### 💻 Full Stack Developer | 🛸 Brazil
 
+</div>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 </div>
+
 <br/>
+
 🚀 Dive into my **[Portfolio](https://portfolio-pi-pearl-11.vercel.app/)** to explore my projects  
-Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" /></a>
+🤝 Connect with me on  
+<a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
+  <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
+</a>
 
 ---
 
@@ -30,9 +39,9 @@ Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><
 
 <div align="center">
 
-![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=tokyonight&hide_border=true)
+![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolarosa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -42,6 +51,6 @@ Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paolarosa&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true)
 
 </div>
