@@ -12,9 +12,22 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 
 
-🚀 Dive into my **[Portfolio](https://portfolio-pi-pearl-11.vercel.app/)** to explore my projects  
-Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" /></a>
+🚀 Dive into my 
+<a 
+  href="https://portfolio-pi-pearl-11.vercel.app/" 
+  target="_blank"
+  style="text-decoration: none; color: #ec4899; font-weight: 600;"
+>
+  Portfolio
+</a> 
+to explore my projects  
+<br/><br/>
+Connect with me on 
+<a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
+  <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
+</a>
 </div>
+
 ---
 
 ## 🧠 Languages & Tools
