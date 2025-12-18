@@ -12,16 +12,13 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 
 
-🚀 Dive into my 
 <a href="https://portfolio-pi-pearl-11.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-ec4899?style=for-the-badge" />
 </a>
 
-to explore my projects  
 <br/><br/>
-Connect with me on 
 <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
-  <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
+  <img src="https://img.shields.io/badge/LinkedIn-Follow%20my%20progress-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
 
