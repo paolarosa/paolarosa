@@ -4,8 +4,6 @@
 
 ### 💻 Full Stack Developer | 🛸 Brazil
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
 </div>
