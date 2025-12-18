@@ -13,11 +13,7 @@
 
 
 🚀 Dive into my 
-<a 
-  href="https://portfolio-pi-pearl-11.vercel.app/" 
-  target="_blank"
-  style="text-decoration: none; color: #ec4899; font-weight: 600;"
->
+<a href="https://portfolio-pi-pearl-11.vercel.app/" target="_blank" style="text-decoration: none; color: #ec4899; font-weight: 600;">
   Portfolio
 </a> 
 to explore my projects  
