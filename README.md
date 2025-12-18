@@ -4,14 +4,6 @@
 
 ### 💻 Full Stack Developer | 🛸 Brazil
 
-</div>
-<a href="https://portfolio-pi-pearl-11.vercel.app/" target="_blank">
-  <img height="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/" target="_blank">
-  <img height="32" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
-</a>
 ---
 
 <div align="center">
@@ -21,10 +13,7 @@
 <br/>
 
 🚀 Dive into my **[Portfolio](https://portfolio-pi-pearl-11.vercel.app/)** to explore my projects  
-🤝 Connect with me on  
-<a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/">
-  <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" />
-</a>
+🤝 Connect with me on <a href="https://www.linkedin.com/in/paola-rosa-a2254b10a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" /></a>
 
 ---
 
