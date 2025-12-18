@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
-
+<br/>
 
 <a href="https://portfolio-pi-pearl-11.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-ec4899?style=for-the-badge" />
