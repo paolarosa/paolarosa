@@ -2,8 +2,6 @@
 
 # Welcome! 💀
 
-### Full Stack Developer 
-
 </div>
 
 <div align="center">
