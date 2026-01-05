@@ -38,6 +38,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paolarosa&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paolarosa&bg_color=1a1b27&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true)
 
 </div>
