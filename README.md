@@ -38,7 +38,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paolarosa&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
