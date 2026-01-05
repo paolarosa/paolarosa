@@ -33,12 +33,3 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolarosa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-
-
-</div>
